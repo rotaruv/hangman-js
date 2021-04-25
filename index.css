@@ -1,0 +1,42 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 5px;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 5px;
+}
+
+img {
+    max-height: 300px;
+}
+
+.container {
+    text-align: center;
+    border: solid;
+    margin: 10px;
+    width: 31.7%;
+    height: 300px;
+    /* display: inline-block; */
+    float: left;
+}
+
+.buttons {
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+}
+
+#refresh {
+    font-size: 30px;
+    position: absolute;
+    top: 350px;
+    left: 740px;
+    height: 50px;
+    width: 200px;
+}
